@@ -1,13 +1,13 @@
-package com.github.bhali16.emplyee;
+package com.github.bhali16.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmplyeeSystemApiApplication {
+public class EmployeeSystemApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EmplyeeSystemApiApplication.class, args);
+        SpringApplication.run(EmployeeSystemApiApplication.class, args);
     }
 
 }
